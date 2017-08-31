@@ -1,0 +1,199 @@
+.topnav {
+  list-style-type: none;
+  margin: 0 auto;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: fixed; 
+  overflow: hidden;
+  top:0;
+  z-index: 3;
+  width:100%;
+}
+
+.topnav li a {
+  display: inline-block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  transition: 0.3s;
+  font-size: 1.0em;
+  font-family: Lobster;
+  
+}
+
+.topnav li:nth-last-child(5) {
+ margin-right:50%; 
+}
+
+#topnav li:hover,
+li:hover a:hover {
+  color: #79BADA;
+}
+
+#topnav li:hover a:visited {
+  color: #79BADA
+}
+
+#topav a:visited {
+  color: #CCC;
+}
+
+#twitterIcon{
+  color:rgb(0, 172, 237);
+}
+#facebookIcon{
+  color:rgb(59, 89, 163);
+}
+#githubIcon{
+  color:rgb(102, 43, 129);
+}
+#linkedinIcon{
+  color:rgb(0, 127, 178);
+}
+#SpecifyitIcon{
+  color:darkgreen;
+}
+
+#twitterIcon2{
+  color:rgb(0, 172, 237);
+}
+#facebookIcon2{
+  color:rgb(59, 89, 163);
+}
+#githubIcon2{
+  color:rgb(102, 43, 129);
+}
+#linkedinIcon2{
+  color:rgb(0, 127, 178);
+}
+#SpecifyitIcon2{
+  color:darkgreen;
+}
+
+body {
+  background-color: black;
+  font-family:Lobster;
+  color: white;
+  font-size: 25px;
+  position: relative;  
+}
+
+h1 {
+  padding: 0;
+  margin-top: 10%;
+  font-size: 4.0em;
+  
+}
+h2 {
+  padding: 40px;
+}
+.pageOne {
+  background-image: url("http://www.zsbnopava.cz/bajtik/2017/gigabajtik/mockor/gigabajtik-jiri-mockor/img/img1.jpg");
+  background-size: cover;
+  padding-top:1%;
+  padding-bottom: 21%;
+}
+
+.pageTwo {
+  background:url("https://images.unsplash.com/photo-1484851050019-ca9daf7736fb?dpr=1&amp;auto=format&amp;fit=crop&amp;w=1500&amp;h=1001&amp;q=80&amp;cs=tinysrgb&amp;crop=");
+  color:white;
+  background-size:cover;
+  height:1000px;
+  padding-top:5%;
+  padding-left:5%;
+  
+}
+p{
+  font-size:2.2em;
+}
+.me{
+ height:500px;
+ margin-top:10%;
+ border-radius:75%;
+  
+}
+  paddingTop{
+  padding-top=2%;
+  padding-bottom=2%;
+}
+ .thin-border {
+   
+   border-color: ;
+   border-width: 10px;
+   border-style: ;
+   border-radius: 100%;
+    
+}
+.pageThree{
+  background:url("https://images.unsplash.com/photo-1483366774565-c783b9f70e2c?dpr=1&amp;auto=format&amp;fit=crop&amp;w=1500&amp;h=1000&amp;q=80&amp;cs=tinysrgb&amp;crop=");
+  background-size:cover;
+  padding-bottom:20%;
+  
+  color:black;
+}
+.pageFour{
+  background:url("https://images.unsplash.com/photo-1458872590620-5056e3311cad?dpr=1&amp;auto=format&amp;fit=crop&amp;w=1500&amp;h=845&amp;q=80&amp;cs=tinysrgb&amp;crop=");
+    background-size:cover;
+  padding-top:48%;
+    
+}
+
+.link-btn {
+  color: white;
+  background-color: black;
+  text-align: center;
+  letter-spacing:1px;
+  padding: 10px 20px;
+  margin: 10px 0;
+  border-radius:10px;
+}
+.link-btn:hover{
+  background: #333;
+  color:#79BADA;
+}
+.block {
+  background-color:black;
+  opacity:.8;
+  padding:5px;
+  width:40%;
+  margin-right:auto;
+  margin-left:auto;
+  margin-bottom:2%;
+  margin-top:8%;
+  border-radius:10px;
+  
+}
+
+.footer {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  
+  
+}
+.footer a{
+
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  transition: 0.3s;
+  font-size: 20px;
+  font-family: 'Sansita', sans-serif;
+}
+
+}
+.paddingBtn{
+  padding-top:5%;
+  padding-bottom:5%;
+  width:200px;
+  mrgin-bottom:25px;
+}
+
+h3 a{
+  font-size:20px;
+}
